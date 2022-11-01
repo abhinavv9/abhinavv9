@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhinavvvv_" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavvvv_?logo=twitter&style=for-the-badge" alt="abhinavvvv_" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Shell Script, Cyber Security**
+- 🌱 I’m currently learning **Kubernetes, Shell Script, Linux**
 
-- 💬 Ask me about **React, Node, GoLang, Linux**
+- 💬 Ask me about **React, Node, GoLang**
 
 - 📫 How to reach me **abhinavvrm14@gmail.com**
 
